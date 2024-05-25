@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(17, 17, 17);
+}
+
+canvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: steelblue;
+
+  border: 2px solid white;
+}
+
+.state-display {
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
